@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 64e8cfe9034723f44afca71ad31f824d
+  - enabled: 1
+    path: Assets/Scenes/StationSlice_V1.unity
+    guid: 5690ab5080072c947849cc94e917b461
+  m_configObjects: {}
